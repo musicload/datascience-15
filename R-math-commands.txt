@@ -1,8 +1,12 @@
 # ####################################
 # adding a rich header in the branch “rich_header”
-#
 # created 13.12.14
 # Some of the R commands used to plot the mathematical functions
+## secondary heading
+### tertiary heading
+* bullet
+* list
+* here
 # ####################################
 > draw.plotmath.cell(expression(x^(y + z)), i, nr); i <- i + 1
 
