@@ -1,7 +1,9 @@
-# Some of the R commands used to plot the mathematical functions
+# ####################################
+# adding a rich header in the branch “rich_header”
+#
 # created 13.12.14
-# another message for test purposes
-
+# Some of the R commands used to plot the mathematical functions
+# ####################################
 > draw.plotmath.cell(expression(x^(y + z)), i, nr); i <- i + 1
 
 > # have to do this one by hand
