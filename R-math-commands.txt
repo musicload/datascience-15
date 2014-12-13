@@ -1,5 +1,6 @@
 # Some of the R commands used to plot the mathematical functions
 # created 13.12.14
+# another message for test purposes
 
 > draw.plotmath.cell(expression(x^(y + z)), i, nr); i <- i + 1
 
